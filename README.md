@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D54B5,38:7B5FC9,74:5B7FC9,100:56A6C2&height=170&section=header&text=Leonor%20Rebola&fontSize=58&fontColor=ffffff&desc=%E2%9C%A6%20AI%20%26%20Data%20Science%20%E2%9C%A6&descSize=16&descAlignY=82&fontAlignY=46" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D54B5,100:56A6C2&height=180&section=header&text=Leonor%20Rebola&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Data%20Science&descSize=18&descAlignY=58" width="100%"/>
 
-<i>From raw data to decisions — ETL, machine learning &amp; visualization.</i>
+<i>From raw data to decisions — ETL, machine learning & visualization.</i>
 
 <br/><br/>
 
