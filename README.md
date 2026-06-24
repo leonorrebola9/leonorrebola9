@@ -1,13 +1,10 @@
 <div align="center">
-
-![banner](./banner.svg)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:7B4FBF&height=180&section=header&text=Leonor%20Rebola&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Artificial%20Intelligence%20%26%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
 <br/>
 
 ## ◆ About
-
 - Currently pursuing a B.Sc. in **Artificial Intelligence and Data Science**
 - Universidade da Beira Interior
 - Based in Portugal 🇵🇹
@@ -66,10 +63,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonorrebola9)
 [![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/leonorrebola9)
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B0082,100:7C3AED&height=6" width="100%"/>
 </div>
