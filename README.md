@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:7B4FBF&height=180&section=header&text=Leonor%20Rebola&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Artificial%20Intelligence%20%26%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1aff,100:7C3AED&height=180&section=header&text=Leonor%20Rebola&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+Data+Science" alt="Typing SVG" />
 </div>
 
 <br/>
