@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:7C3AED&height=180&section=header&text=Leonor%20Rebola&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=999999&color=D8B4FE&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+Data+Science" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:7C3AED&height=180&section=header&text=Leonor%20Rebola&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Artificial%20Intelligence%20and%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=999999&color=D8B4FE&center=true&vCenter=true&width=600&lines=From+raw+data+to+decisions+%7C+ETL%2C+ML+and+visualization" alt="Typing SVG" />
+</a>
 </div>
 
 <br/>
@@ -58,7 +59,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=leonorrebola9&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=0d1117&icon_color=4ADE80&text_color=ffffff&title_color=D8B4FE" height="158"/>
 <img src="https://streak-stats.demolab.com?user=leonorrebola9&hide_border=true&background=0d1117&stroke=D8B4FE&ring=4ADE80&fire=4ADE80&currStreakLabel=D8B4FE&sideLabels=ffffff&currStreakNum=D8B4FE&sideNums=D8B4FE&dates=aaaaaa&dayLabels=aaaaaa" height="158"/>
-
-</div>
 
 </div>
