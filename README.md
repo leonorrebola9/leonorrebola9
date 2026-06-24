@@ -1,18 +1,9 @@
 <div align="center">
 
-<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4B0082;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="800" height="120" fill="url(#grad)" rx="8"/>
-  <text x="400" y="58" font-family="Arial" font-size="36" font-weight="bold" fill="white" text-anchor="middle">Leonor Rebola</text>
-  <text x="400" y="90" font-family="Arial" font-size="16" fill="#e0d0ff" text-anchor="middle">Artificial Intelligence &amp; Data Science</text>
-</svg>
+![banner](./banner.svg)
 
 </div>
+
 <br/>
 
 ## ◆ About
