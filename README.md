@@ -50,14 +50,3 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=leonorrebola9&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=0d1117&icon_color=4ADE80&text_color=ffffff&title_color=D8B4FE" height="158"/>
-<img src="https://streak-stats.demolab.com?user=leonorrebola9&hide_border=true&background=0d1117&stroke=D8B4FE&ring=4ADE80&fire=4ADE80&currStreakLabel=D8B4FE&sideLabels=ffffff&currStreakNum=D8B4FE&sideNums=D8B4FE&dates=aaaaaa&dayLabels=aaaaaa" height="158"/>
-
-</div>
