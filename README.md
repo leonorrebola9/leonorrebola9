@@ -8,8 +8,8 @@
 <br/>
 
 ## 👤 About me
-- Currently pursuing a B.Sc. in **Artificial Intelligence and Data Science**
-- Universidade da Beira Interior
+- B.Sc. student in **Artificial Intelligence and Data Science**
+- Universidade da Beira Interior, Covilhã
 - Based in Portugal 🇵🇹
 
 ---
