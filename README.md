@@ -7,26 +7,28 @@
 
 <br/>
 
-## 👤 About me
+## About me
 - B.Sc. student in **Artificial Intelligence and Data Science**
+- Strong interest in Data Analysis and ETL processes
+- Dedicated to transforming data into useful insights
 - Universidade da Beira Interior, Covilhã
 - Based in Portugal 🇵🇹
 
 ---
 
-## 🗂️ Projects
+## Projects
 
 | Project | Description | Tool |
 | --- | --- | --- |
-| [machinelearning](https://github.com/leonorrebola9/machinelearning) | Coursework in machine learning: linear & logistic regression, CNNs, and k-means clustering | Google Colab |
-| [projetobd](https://github.com/leonorrebola9/projetobd) | Database project on asteroids, with an app to explore and visualize the data | Python, SQL |
-| [projetovd](https://github.com/leonorrebola9/projetovd) | Data visualization project: an energy-data dashboard | Python |
-| [interacao](https://github.com/leonorrebola9/interacao) | Interaction course: computer vision, RAG, and prompting techniques | Python |
-| [projetoetl](https://github.com/leonorrebola9/projetoetl) | ETL pipeline built on the Spotify API | Python |
+| [ML Projects](https://github.com/leonorrebola9/machinelearning) | Coursework in machine learning: linear & logistic regression, CNNs, and k-means clustering | Google Colab |
+| [Asteroid Database](https://github.com/leonorrebola9/projetobd) | Database project on asteroids, with an app to explore and visualize the data | Python, SQL |
+| [Energy Dashboard](https://github.com/leonorrebola9/projetovd) | Data visualization project: an energy-data dashboard | Python |
+| [Retail Vision Project](https://github.com/leonorrebola9/interacao) | Interaction course: computer vision, RAG, and prompting techniques | Python |
+| [Spotify API Pipeline](https://github.com/leonorrebola9/projetoetl) | ETL pipeline built on the Spotify API | Python |
 
 ---
 
-## ⚙ Tools & Technologies
+## Tech Stack
 
 **Tools**
 
