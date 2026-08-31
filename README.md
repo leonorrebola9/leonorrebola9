@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:7C3AED&height=180&section=header&text=Leonor%20Rebola&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Artificial%20Intelligence%20and%20Data%20Science&descAlignY=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:7C3AED&height=180&section=header&text=Leonor%20Rebola&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=999999&color=D8B4FE&center=true&vCenter=true&width=600&lines=From+raw+data+to+decisions+%7C+ETL%2C+ML+and+visualization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=D8B4FE&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+and+Data+Science;From+raw+data+to+decisions+%7C+ETL%2C+ML+and+visualization" alt="Typing SVG" />
 </a>
 </div>
 
@@ -50,6 +50,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:7C3AED&height=120&section=footer&text=&animation=fadeIn" width="100%"/>
