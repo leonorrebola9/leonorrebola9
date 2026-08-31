@@ -50,3 +50,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:7C3AED&height=120&section=footer&text=&animation=fadeIn" width="100%"/>
+</div>
