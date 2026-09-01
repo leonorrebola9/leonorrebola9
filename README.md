@@ -18,14 +18,14 @@
 
 ## Projects
 
-| Project | Description | Tool |
+| Project | Description | Tools |
 | --- | --- | --- |
-| [Asteroid Database](https://github.com/leonorrebola9/projetobd) | Database project on asteroids, with an app to explore and visualize the data | Python, SQL |
-| [Energy Dashboard](https://github.com/leonorrebola9/projetovd) | Data visualization project: an energy-data dashboard | Python |
-| [ML Projects](https://github.com/leonorrebola9/machinelearning) | Coursework in machine learning: linear & logistic regression, CNNs, and k-means clustering | Google Colab |
-| [Retail Vision Project](https://github.com/leonorrebola9/interacao) | Interaction course: computer vision, RAG, and prompting techniques | Python |
-| [Spotify API Pipeline](https://github.com/leonorrebola9/projetoetl) | ETL pipeline built on the Spotify API | Python |
-| [Winning the Space Race with Data Science](https://github.com/leonorrebola9/datascience_capstone) | IBM capstone project: predicts Falcon 9 landing success using data collected via API/web scraping, SQL, Folium, Plotly Dash, and classification models | Python, SQL |
+| [Asteroid Database](https://github.com/leonorrebola9/projetobd) | Database project on asteroids, with an app to explore and visualize the data | `Python` · `SQL` |
+| [Energy Dashboard](https://github.com/leonorrebola9/projetovd) | Data visualization project: an energy-data dashboard | `Python` |
+| [ML Projects](https://github.com/leonorrebola9/machinelearning) | Coursework in machine learning: linear & logistic regression, CNNs, and k-means clustering | `Google Colab` |
+| [Retail Vision Project](https://github.com/leonorrebola9/interacao) | Interaction course: computer vision, RAG, and prompting techniques | `Python` · `HuggingFace` |
+| [Spotify API Pipeline](https://github.com/leonorrebola9/projetoetl) | ETL pipeline built on the Spotify API | `Python` |
+| [Winning the Space Race with Data Science](https://github.com/leonorrebola9/datascience_capstone) | IBM capstone project: predicts Falcon 9 landing success using data collected via API/web scraping, SQL, Folium, Plotly Dash, and classification models | `Python` · `SQL` |
 
 ---
 
