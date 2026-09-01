@@ -9,9 +9,9 @@
 
 ## About me
 - B.Sc. student in **Artificial Intelligence and Data Science**
+- Universidade da Beira Interior, Covilhã
 - Strong interest in Data Analysis and ETL processes
 - Dedicated to transforming data into useful insights
-- Universidade da Beira Interior, Covilhã
 - Based in Portugal 🇵🇹
 
 ---
